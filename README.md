@@ -21,8 +21,5 @@ Here are some ideas to get you started:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## GitHub Stats
-![yangjiae12's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjiae12&show_icons=true&theme=tokyonight)
-
 
 
