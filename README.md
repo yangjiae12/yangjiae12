@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangjiae12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ![yangjiae12's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjiae12&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yangjiae12&theme=tokyonight)](https://git.io/streak-stats)
