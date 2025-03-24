@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 ## GitHub Stats
 ![yangjiae12's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjiae12&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yangjiae12&theme=tokyonight)](https://git.io/streak-stats)
