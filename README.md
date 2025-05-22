@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## GitHub Stats
-![yangjiae12's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjiae12&show_icons=true&theme=tokyonight)
+![yangjiae12's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjiae12&show_icons=true&theme=tokyoday)
 
