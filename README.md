@@ -10,15 +10,15 @@
 
 ---
 
-## 🎓 Education & Honors
+## 🎓 Education
 * **Seoul Women's University** (2023.03 ~ Present)
     * B.S. in **Digital Media** & Double Major in **Software Convergence**
-    * **GPA: 4.45 / 4.5** 🏆
+    * **GPA: 4.45 / 4.5**
 * **Barom Capstone Design Project** | Selected as Outstanding Project (2025)
 * **GURU 2 (Android Track)** | Completion & Encouragement Award (2025)
 * **GURU 1 (Unity Track)** | Completion (2023)
 
-## 🏆 Projects & Awards
+## 🏆 Projects
 #### **Server/Backend**
 * **TeumTeum** (UMC 8th) — *Encouragement Award*
 * **Hrr** (UMC 7th) — *Excellence Award* **(Launched)**
@@ -26,7 +26,7 @@
 #### **Android Developer**
 * **UMC Product** — *Official Internal Product*
 
-## 🤝 Leadership & Experience
+## 🤝 Experience
 
 #### **UMC (University MakeUs Challenge)**
 * **9th Gen:** Campus President & Android Part Lead (2025.09 - 2026.02)
