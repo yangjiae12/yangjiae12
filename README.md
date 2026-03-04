@@ -20,7 +20,7 @@
 
 ## 🏆 Projects
 #### **Server/Backend**
-* **TeumTeum** (UMC 8th) — *Encouragement Award*
+* **TeumTeum** (UMC 8th) — *Encouragement Award* **(Launched)**
 * **Hrr** (UMC 7th) — *Excellence Award* **(Launched)**
 
 #### **Android Developer**
