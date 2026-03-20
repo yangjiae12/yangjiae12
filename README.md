@@ -8,16 +8,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
----
-
-## 🎓 Education
-* **Seoul Women's University** (2023.03 ~ Present)
-    * B.S. in **Digital Media** & Double Major in **Software Convergence**
-    * **GPA: 4.45 / 4.5**
-* **Barom Capstone Design Project** | Selected as Outstanding Project (2025)
-* **GURU 2 (Android Track)** | Completion & Encouragement Award (2025)
-* **GURU 1 (Unity Track)** | Completion (2023)
-
 ## 🏆 Projects
 #### **Server/Backend**
 * **TeumTeum** (UMC 8th) — *Encouragement Award* **(Launched)**
@@ -35,8 +25,6 @@
 
 ## 📜 Certifications
 * **SQLD (SQL Developer)**
-
----
 
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangjiae12&theme=dracula" />
