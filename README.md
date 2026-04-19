@@ -27,4 +27,5 @@
 * **SQLD (SQL Developer)**
 
 ## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yangjiae12&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&v=1" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangjiae12&theme=dracula" />
