@@ -19,8 +19,9 @@
 ## 🤝 Experience
 
 #### **UMC (University MakeUs Challenge)**
-* **9th Gen:** Campus President & Android Part Lead (2025.09 - 2026.02)
-* **8th Gen:** Spring Boot Challenger & Android Part Lead (2025.03 - 2025.08)
+* **10th Gen:** Campus Vice President & Spring Boot Part Lead (2026.03 - Present)
+* **9th Gen:** Campus President & Android Part Lead & Spring Boot Challenger (2025.09 - 2026.02)
+* **8th Gen:** Spring Boot Challenger & Android Part Lead & Spring Boot Challenger (2025.03 - 2025.08)
 * **7th Gen:** Android Challenger (2024.09 - 2025.02)
 
 ## 📜 Certifications
