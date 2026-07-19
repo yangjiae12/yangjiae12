@@ -27,5 +27,12 @@
 ## 📜 Certifications
 * **SQLD (SQL Developer)**
 
+
 ## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yangjiae12&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=yangjiae12&theme=dracula&hide_border=true" />
+</p>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangjiae12&theme=dracula" />
