@@ -26,8 +26,8 @@
 
 #### **Server/Backend**
 * **Yeogido (여기도)** — Travel Course Discovery & Recommendation Platform
-* **TeumTeum (틈틈)** — Free Time-Based To-Do & Appointment Planning Service
-* **Hrr (흐르르)** — Challenge-Based Self-Improvement Platform
+* **TeumTeum (틈틈)** — Free Time-Based To-Do & Appointment Planning Service **(Launched)**
+* **Hrr (흐르르)** — Challenge-Based Self-Improvement Platform **(Launched)**
 
 #### **Android Developer**
 * **UMC Product** — Official Internal Product
